@@ -45,7 +45,7 @@ import Image from 'next/image'
 src="/images/showertv/speakers.jpg"
 alt="Speakers"
 priority
-className="next-image">
+className="next-image"/>
 
 #### The Juice
 
