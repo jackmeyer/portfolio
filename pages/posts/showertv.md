@@ -40,14 +40,6 @@ No surprise, the built-in speakers on the USB-C monitor mentioned above were ter
 
 I had some USB-powered speakers that I had taken apart for a previous project, and they were small (but mighty) enough that they'd fit my needs. 
 
-import Image from 'next/image'
-
-<Image 
-src="/images/showertv/speakers.jpg"
-alt="Speakers"
-priority
-className="next-image"/>
-
 ![Speakers](/images/showertv/speakers.jpg)
 
 ### The Juice
