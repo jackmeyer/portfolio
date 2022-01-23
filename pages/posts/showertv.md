@@ -109,7 +109,7 @@ Shit.
 
 Turns out that superglue vapors, without ventiliation, will leave some pretty nasty discoloration on acrylic. Luckily, the hot glue seal I formed between the front acrylic and monitor screen to prevent moisture also prevented any discoloration in front of the screen. Just got some cool battle scars around the rest of the assembly, no big deal. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PdhCyINa4Ew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/PdhCyINa4Ew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I used some [heavy duty suction cups](https://www.amazon.com/gp/product/B07N877WD8) and [nylon wire](https://www.amazon.com/gp/product/B08TTS287C) to hang the box inside my shower. 
 
