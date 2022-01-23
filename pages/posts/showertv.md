@@ -87,10 +87,11 @@ The box also needed a few holes:
 - grates at bottom for speaker output
 
 ![charging-port](/images/showertv/showertv_chargingport.jpg)
-`hole in side of the box for charging the battery`
+_hole in side of the box for charging the battery_
 
 ![speaker-grill](/images/showertv/showertv_speakergrill.jpg)
-`drilled a grid of tiny holes for each speaker to sit behind. also using water-resistant treated fabric on the insides`
+_drilled a grid of tiny holes for each speaker to sit behind. also using water-resistant treated fabric on the insides_
+
 
 > I learned throughout this assembly process that superglue deserves it's own special place in hell. 
 
@@ -110,3 +111,18 @@ Turns out that superglue vapors, without ventiliation, will leave some pretty na
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PdhCyINa4Ew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+I used some [heavy duty suction cups](https://www.amazon.com/gp/product/B07N877WD8) and [nylon wire](https://www.amazon.com/gp/product/B08TTS287C) to hang the box inside my shower. 
+
+![showertv-hanging](/images/showertv/showertv_hanging.jpg)
+
+
+## Final thoughts
+
+Looking back on my original inspiration for this project, I was motivated most by the fact that I couldn't find any commercially available solution. I'm often searching for my way into the consumer tech industry, and hope to make a lot of improvements to a future prototype.
+
+A few musings:
+- I searched for weeks looking to find a way to cast videos to the device without a consumer product (Chromecast, Fire stick, etc.) and learned about [DIAL (Discovery and Launch)](http://www.dial-multiscreen.org/). This protocol may help if I ever create my own software implementation.
+- This project was the first time I was ever inspired to use SoC's and integrated circuits for peripherals like buttons or volume knobs. Before I get to any of that, there's a lot I have to learn.
+- Using commercial components (not meant for consumers) would help a lot in bringing down the cost, size, and weight of any future prototypes. 
+
+My lovely little prototype has now survived at least a hundred showers and countless recharges! Did I mention that the battery lasts over a week at a time? Probably 4-5 hours of actual runtime before it gives out. Even for a first attempt, I'm incredibly pleased with the results. 
