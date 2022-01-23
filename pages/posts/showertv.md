@@ -108,5 +108,5 @@ Shit.
 
 Turns out that superglue vapors, without ventiliation, will leave some pretty nasty discoloration on acrylic. Luckily, the hot glue seal I formed between the front acrylic and monitor screen to prevent moisture also prevented any discoloration in front of the screen. Just got some cool battle scars around the rest of the assembly, no big deal. 
 
-![video](/images/showertv/firstlook.MOV)
+![video](https://github.com/jackmeyer/portfolio/raw/master/public/images/showertv/firstlook.MOV)
 
