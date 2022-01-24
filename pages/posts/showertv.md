@@ -1,6 +1,6 @@
 ---
 title: Shower TV Build
-date: 2021/9/18
+date: 2022/1/22
 description: Build process of a water-proofed shower TV
 tag: home development
 author: Jack M
