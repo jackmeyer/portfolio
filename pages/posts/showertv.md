@@ -8,6 +8,8 @@ author: Jack M
 
 # Shower TV build
 
+![ShowerTVSplash](/images/showertv/showertv_preview.gif)
+
 ## Purpose
 
 My partner and I are almost always plugged in to YouTube, watching content ranging from beauty product reviews to sports talk shows. We're often watching at our desktop computers, laptops on the couch, phone in the kitchen, or even... in the shower. 
